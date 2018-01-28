@@ -1,0 +1,102 @@
+"1/29/18","CHOCOLATE CHIP PANCAKES",true,false,false,true,false,false 
+"1/29/18","FRENCH TOAST",true,false,false,true,false,false
+"1/29/18","HOME FRIES WITH GARLIC",true,false,true,true,false,false
+"1/29/18","ROASTED BROCCOLI",false,false,true,true,false,false
+"1/29/18","MUSHROOM AND SAUSAGE BREAKFAST PIZZA",false,false,false,true,false,false
+"1/29/18","SOUTHWESTERN BREAKFAST PIZZA",true,false,false,true,false,false
+"1/29/18","ZUCCHINI BREAD",true,false,false,true,false,false
+"1/29/18","FRUITED SCONES",true,false,false,true,false,false 
+"1/29/18","ASIAN INSPIRED SALAD BAR",false,false,false,false,true,false
+"1/29/18","CANJA SOUP",false,false,false,false,true,false
+"1/29/19","VEGETABLE BARLEY SOUP",true,false,false,false,true,false
+"1/29/18","HOT AND SOUR PORK STIR FRY",false,false,true,false,true,false
+"1/29/18","STEAMED JASMINE RICE",false,true,true,false,true,false
+"1/29/18","SWEET GINGER TOFU STIR FRY",false,true,false,false,true,false
+"1/29/18","FRESH STEAMED GREEN BEANS",false,true,true,false,true,false
+"1/29/18","WHOLE WHEAT PENNE PASTA",false,true,false,false,true,false
+"1/29/18","ORECCHIETTE PASTA",false,true,false,false,true,false
+"1/29/18","SPAGHETTI SAUCE",false,true,true,false,true,false
+"1/29/18","SAGE CREAM SAUCE",true,false,false,false,true,false
+"1/29/18","CHOW MEIN WITH ROASTED TOFU",false,true,false,false,true,false
+"1/29/18","STEAMED GREEN BEANS",false,true,false,false,true,false
+"1/29/18","ROASTED CAULIFLOWER WITH RED ONIONS",false,true,true,false,true,false
+"1/29/18","VEGGIE PIZZA",true,false,false,false,true,false
+"1/29/18","PEPPERONI PIZZA",false,false,false,false,true,false
+"1/29/18","CHEESE PIZZA",false,false,false,false,true,false
+"1/29/18","HAWAIIAN PIZZA",false,false,false,false,true,false
+"1/29/18","GRILLED CITRUS AND HERB CHICKEN",false,false,true,false,true,false
+"1/29/18","FRIED VEGGIE PATTY",true,false,false,false,true,false
+"1/29/18","FRIED SOUTHWEST BLACK BEAN BURGER",false,true,false,false,true,false
+"1/29/18","SEASONED CURLY FRENCH FRIES",false,true,false,false,true,false
+"1/29/18","CURRIED POTATO SALAD",false,true,true,false,true,false
+"1/29/18","SOUTHWESTERN PICKLED COLESLAW",false,true,true,false,true,false
+"1/29/18","M&M RICE KRISPIE TREATS",false,false,false,false,true,false
+"1/29/18","MINT CHOCOLATE CHIP COOKIES",true,false,false,false,true,false
+"1/29/18","CHOCOLATE CHIP PANCAKES",true,false,false,false,true,false
+"1/29/18","HARD-BOILED EGGS",false,false,true,false,true,false
+"1/29/18","TURKEY BREAKFAST SAUSAGE",false,false,false,false,true,false
+"1/29/18","ASIAN INSPIRED SALAD BAR",false,false,false,false,false,true
+"1/29/18","CANJA SOUP",false,false,true,false,false,true
+"1/29/18","VEGETABLE BARLEY SOUP",true,false,false,false,false,true
+"1/29/18","AFRICAN STYLE HONEY BREAD",true,false,false,false,false,true 
+"1/29/18","CIDER GLAZED TURKEY",false,false,true,false,false,true
+"1/29/18","OVEN BROWNED DINNER POTATOES",true,false,true,false,false,true
+"1/29/18","COUNTRY STYLE BAKED HAM",false,false,true,false,false,true
+"1/29/18","STEAMED ZUCCHINI AND SUMMER SQUASH",false,true,true,false,false,true
+"1/29/18","BRAISED ORANGE CABBAGE",false,true,true,false,false,true
+"1/29/18","WHOLE WHEAT PENNE PASTA",false,true,false,false,false,true
+"1/29/18","ORECCHIETTE PASTA",false,true,false,false,false,true
+"1/29/18","SPAGHETTI SAUCE",false,true,true,false,false,true 
+"1/29/18","SAGE CREAM SAUCE",true,false,false,false,false,true
+"1/29/18","BAKED POLENTA",true,false,true,false,false,true
+"1/29/18","BRAISED ORANGE CABBAGE",false,true,true,false,false,true
+"1/29/18","STEAMED ZUCCHINI AND SUMMER SQUASH",false,true,true,false,false,true
+"1/29/18","VEGGIE PIZZA",true,false,false,false,false,true
+"1/29/18","PEPPERONI PIZZA",false,false,false,false,false,true
+"1/29/18","CHEESE PIZZA",false,false,false,false,false,true
+"1/29/18","HAWAIIAN PIZZA",false,false,false,false,false,true
+"1/29/18","GRILLED CITRUS AND HERB CHICKEN",false,false,true,false,false,true
+"1/29/18","FRIED VEGGIE PATTY",true,false,false,false,false,true
+"1/29/18","FRIED SOUTHWEST BLACK BEAN BURGER",false,true,false,false,false,true
+"1/29/18","SEASONED CURLY FRENCH FRIES",false,true,false,false,false,true
+"1/29/18","CURRIED POTATO SALAD",false,true,true,false,false,true
+"1/29/18","SOUTHWESTERN PICKLED COLESLAW",false,true,true,false,false,true
+"1/29/18","SOUTHWESTERN BULGUR AND QUINOA GRAIN BOWL",true,false,false,false,false,true
+"1/29/18","PINEAPPLE UPSIDE DOWN CAKE",true,false,false,false,false,true
+"1/29/18","FUDGE BARS",true,false,false,false,false,true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
